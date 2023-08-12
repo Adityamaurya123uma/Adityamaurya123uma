@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aditya Maurya</h1>
-<h3 align="center">A passionate Software developer.</h3>
+<h3 align="center">A software enthusiast...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamaurya123uma&label=Profile%20views&color=0e75b6&style=flat" alt="adityamaurya123uma" width="150"/> </p>
 
-- 🔭 A [Software Developer]
+- 🔭 A Software Developer
 
 - 🌱 Currently learning **Data Structure, Javascript, React etc...**
 
