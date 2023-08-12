@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamaurya123uma&label=Profile%20views&color=0e75b6&style=flat" alt="adityamaurya123uma" width="150"/> </p>
 
-- 🔭 I’m currently working as [Software Developer](Odoo)
+- 🔭 A [Software Developer]
 
-- 🌱 I’m currently learning **Data Structure, Javascript, React etc...**
+- 🌱 Currently learning **Data Structure, Javascript, React etc...**
 
 - 💬 Ask me about **Data Structure,React**
 
