@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **Data Structure,React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aditya-maurya-795063184/**
+- 📫 How to reach me **[https://www.linkedin.com/in/aditya-maurya-795063184/](https://www.linkedin.com/in/aditya-kumar-maurya/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-maurya-795063184/" target="blank"><img style="height: 60px; width:60px;"         src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="here comes an image"/>
+<a href="https://www.linkedin.com/in/aditya-kumar-maurya/" target="blank"><img style="height: 60px; width:60px;" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="here comes an image"/>
 </a>
 </p>
 
